@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/apk
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+.idea
+app/build
+tools/basic_apk
+/build.log
+tools/release_apk
+tools/walle/formatting_file.pyc
